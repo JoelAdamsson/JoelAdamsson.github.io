@@ -1,0 +1,72 @@
+#wrapper{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+
+
+
+
+header{
+
+width: 800px;
+height: 200px;
+background-color: #FFC500;
+
+color: pink;
+font-size: 40px;
+font-family: font-family: 'Exo', sans-serif;
+
+}
+nav{
+
+  width: 800px;
+  height: 150px;
+  background-color: #8B008B;
+}
+#mainwrapper{
+
+display:flex;
+
+
+}
+main{
+width: 600px;
+height: 400px;
+
+}
+aside{
+
+  width: 200px;
+  height: 400px;
+}
+footer{
+width: 800px;
+height: 100px;
+background-color: #65FF00;
+
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+}
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: gray;
+}
