@@ -48,12 +48,13 @@ aside{
   background-color: #E5FBFF;
 }
 footer{
-width: 100%;
-height: 100%;
-background-color: #E8C626;
-border-radius: 4px;
-font-size: 20px;
-
+position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #E8C626;
+  border-radius: 4px;
+  font-size: 20px;
 }
 a{
   text-decoration: none;
